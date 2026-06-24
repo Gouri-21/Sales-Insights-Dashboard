@@ -1,12 +1,5 @@
 # 📊 Sales Insights Dashboard - Power BI
 
-## Author
-  Gouri N. Salgar
-
-- GitHub: https://github.com/Gouri-21
-- LinkedIn: http://www.linkedin.com/in/gouri-salgar-804007285
-
-
 ## Project Overview
 
 The Sales Insights Dashboard is an interactive Business Intelligence solution developed using Power BI. The dashboard provides a comprehensive analysis of sales performance, revenue trends, profit margins, customer behavior, and regional performance.
